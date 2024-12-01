@@ -4,6 +4,8 @@ This branch contains the Streamlit-based implementation of the PDF Image Extract
 - Extracts images from PDF files uploaded by users.
 - Provides an interface to display and download the extracted images.
 
+![PDF Image Extractor](pdfImage.png)
+
 ## How to Run
 
 1. Clone the repository:
