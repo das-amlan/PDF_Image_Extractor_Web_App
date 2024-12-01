@@ -10,7 +10,7 @@ This branch contains the Streamlit-based implementation of the PDF Image Extract
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/your-username/PDF_Image_Extractor_Web_App.git
+   git clone https://github.com/das-amlan/PDF_Image_Extractor_Web_App.git
    \`\`\`
 
 2. Navigate to the project directory:
